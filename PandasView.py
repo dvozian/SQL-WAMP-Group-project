@@ -1,7 +1,10 @@
 # Vlado Situm
 # CNA330 Quarter Fall 2020 at RTC Renton
 # This is group project of three members (Vlado, Abdi and Dorin).
-# Liviu Patrasco helped us to write the code.
+# Liviu Patrasco helped us to write the code. The project will take jobs data from 
+# the US Bureau of Labor and Statistics and save it into a database for further quiring to make plots
+# and graphs to help understand the average salaries per occupation, and the relation between them in order
+# to help students select preferred occupation.
 
 import pandas as pd
 from sqlalchemy import create_engine
